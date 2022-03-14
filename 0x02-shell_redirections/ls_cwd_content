@@ -1,0 +1,18 @@
+total 60
+drwxr-xr-x 2 maleek maleek 4096 Mar 14 13:14 .
+drwxr-xr-x 6 maleek maleek 4096 Mar  7 12:46 ..
+-rwxr--r-- 1 maleek maleek   30 Mar  7 13:09 0-hello_world
+-rwxr--r-- 1 maleek maleek   28 Mar 14 12:45 1-confused_smiley
+-rwxr--r-- 1 maleek maleek   20 Mar  9 22:56 10-no_more_js
+-rwxr--r-- 1 maleek maleek   28 Mar  7 14:12 2-hellofile
+-rwxr--r-- 1 maleek maleek   39 Mar  7 14:14 3-twofiles
+-rwxr--r-- 1 maleek maleek   29 Mar  7 14:19 4-lastlines
+-rwxr--r-- 1 maleek maleek   29 Mar  7 14:21 5-firstlines
+-rwxr--r-- 1 maleek maleek   54 Mar  7 14:44 6-third_line
+-rwxr--r-- 1 maleek maleek   79 Mar 14 13:09 7-file
+-rwxr--r-- 1 maleek maleek   36 Mar 14 13:14 8-cwd_state
+-rwxr--r-- 1 maleek maleek   30 Mar  9 22:40 9-duplicate_last_line
+-rw-r--r-- 1 maleek maleek   19 Mar  7 12:48 README.md
+-rw-r--r-- 1 maleek maleek   12 Mar 14 13:09 \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
+-rw-r--r-- 1 maleek maleek    0 Mar  7 14:44 iacta
+-rw-r--r-- 1 maleek maleek    0 Mar 14 13:14 ls_cwd_content
